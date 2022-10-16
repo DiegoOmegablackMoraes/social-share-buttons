@@ -3,7 +3,6 @@
 Este projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
 ## Techs utilizadas
-
-### REACT
-### Typescript
-### styled-components
+ REACT
+ Typescript
+ styled-components
